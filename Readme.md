@@ -8,6 +8,7 @@
 - **Title (English):** The Changes of Zhōu
 - **Dates:** notBefore=-900, notAfter=-100, indexYear=-900
 - **Juans:** 69
+- **More information:** [KR1a0001](https://ask.bunkankun.org/KR1/KR1a/KR1a0001)
 
 ## Editions
 
