@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大過第二十八巽下兌上大過棟橈利有攸往亨彖曰大過大者過也棟橈本末弱也剛過而中巽而說行利有攸往乃亨大過之時大矣哉象曰澤滅木大過君子以獨立不懼遁世無悶初六藉用白茅無咎象曰藉用白茅柔在下也九二枯楊生稊老夫得其女妻無不利象曰老夫女妻過以相與也九三棟橈凶象曰棟橈之凶不可以有輔也九四棟隆吉有它吝象曰棟隆之吉不橈乎下也九五枯楊生華老婦得其士夫無咎無譽象曰枯楊生華何可久也老婦士夫亦可醜也上六過涉滅頂凶無咎象曰過涉之凶不可咎也
+  hash: sha256:02bd273e30e665b5ef48239537f271df9cfb35ec2c62de90f9e9a4241fc60c73
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_028-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:2b00cd793f1bcb353edb2dd1938ba9e59fd5ef6074c96187607a6187a30452b6

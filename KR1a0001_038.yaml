@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 睽第三十八兌下離上睽小事吉彖曰睽火動而上澤動而下二女同居其志不同行說而麗乎明柔進而上行得中而應乎剛是以小事吉天地睽而其事同也男女睽而其志通也萬物睽而其事類也睽之時用大矣哉象曰上火下澤睽君子以同而異初九悔亡喪馬勿逐自復見惡人無咎象曰見惡人以辟咎也九二遇主于巷無咎象曰遇主于巷未失道也六三見輿曳其牛掣其人天且劓無初有終象曰見輿曳位不當也無初有終遇剛也九四睽孤遇元夫交孚厲無咎象曰交孚無咎志行也六五悔亡厥宗噬膚往何咎象曰厥宗噬膚往有慶也上九睽孤見豕負塗載鬼一車先張之弧後說之弧匪寇婚媾往遇雨則吉象曰遇雨之吉群疑亡也
+  hash: sha256:8a466162adfb4ebe79a7ca61f26ff6b4b0ceb1f4c19875ad6869ebe1c93afe96
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_038-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:8fa86157754c2f862043b7e96a41554cfbb6d5dcb880a00c961b054fb7a53c0b

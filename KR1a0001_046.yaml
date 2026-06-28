@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 升第四十六巽下坤上升元亨用見大人勿恤南征吉彖曰柔以時升巽而順剛中而應是以大亨用見大人勿恤有慶也南征吉志行也象曰地中生木升君子以順德積小以高大初六允升大吉象曰允升大吉上合志也九二孚乃利用禴無咎象曰九二之孚有喜也九三升虛邑象曰升虛邑無所疑也六四王用亨于岐山吉無咎象曰王用亨于岐山順事也六五貞吉升階象曰貞吉升階大得志也上六冥升利于不息之貞象曰冥升在上消不富也
+  hash: sha256:935fe227aef556045662e8c786d7d4d390604cd1392f560d30d91aa8961ec66d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_046-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:7fc01c4ec6097e4f4d2156973772e53af2ca19712d9a23efad65f01eb96b787e

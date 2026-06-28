@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 履第十兌下乾上履履虎尾不咥人亨彖曰履柔履剛也說而應乎乾是以履虎尾不咥人亨剛中正履帝位而不疚光明也象曰上天下澤履君子以辯上下定民志初九素履往无咎象曰素履之往獨行願也九二履道坦坦幽人貞吉象曰幽人貞吉中不自亂也六三眇能視跛能履履虎尾咥人凶武人為于大君象曰眇能視不足以有明也跛能履不足以與行也咥人之凶位不當也武人為于大君志剛也九四履虎尾愬愬終吉象曰愬愬終吉志行也九五夬履貞厲象曰夬履貞厲位正當也上九視履考祥其旋元吉象曰元吉在上大有慶也
+  hash: sha256:b205527411b41681eeac294189669a63f709968ebc66345277f16149bf7fb29a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_010-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:3581d6cf42c9d800e2b2fe72feabc8444095c846b0706f2bfcc308864fb9803c

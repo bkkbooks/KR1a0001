@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小畜第九乾下巽上小畜亨密雲不雨自我西郊彖曰小畜柔得位而上下應之曰小畜健而巽剛中而志行乃亨密雲不雨尚往也自我西郊施未行也象曰風行天上小畜君子以懿文德初九復自道何其咎吉象曰復自道其義吉也九二牽復吉象曰牽復在中亦不自失也九三輿說輻夫妻反目象曰夫妻反目不能正室也六四有孚血去惕出无咎象曰有孚惕出上合志也九五有孚攣如富以其鄰象曰有孚攣如不獨富也上九既雨既處尚德載婦貞厲月幾望君子征凶象曰既雨既處德積載也君子征凶有所疑也
+  hash: sha256:9e7fd4e07c8b422a56f7254b2b49e35eb430a3555fd99b4eae8d51c463bd6936
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_009-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:61f17c0cf91f9d4f64f49aa98a18fc40932f9ab806b5aebf694befd82e52f389

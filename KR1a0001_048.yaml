@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 井第四十八巽下坎上井改邑不改井無喪無得往來井井汔至亦未繘井羸其瓶凶彖曰巽乎水而上水井井養而不窮也改邑不改井乃以剛中也往來井井汔至亦未繘井未有功也羸其瓶是以凶也象曰木上有水井君子以勞民勸相初六井泥不食舊井無禽象曰井泥不食下也舊井無禽時舍也九二井谷射鮒甕敝漏象曰井谷射鮒無與也九三井泄不食為我心惻可用汲王明並受其福象曰井泄不食行惻也求王明受福也六四井甃無咎象曰井甃無咎修井也九五井洌寒泉食象曰寒泉之食中正也上六井收勿幕有孚元吉象曰元吉在上大成也
+  hash: sha256:7a2267d24114d158671b11eb71e61157e592ca1ba29cfbc9df214758f62d87f6
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_048-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:f414a4d6d0ea9357d068697d0620bc1ff888c2d5f0ab657de244d295544f33de

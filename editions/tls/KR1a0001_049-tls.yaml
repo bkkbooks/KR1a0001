@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/49
+seq: 49
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 革第四十九離下兌上革巳日乃孚元亨利貞悔亡彖曰革水火相息二女同居其志不相得曰革巳日乃孚革而信之文明以說大亨以正革而當其悔乃亡天地革而四時成湯武革命順乎天而應乎人革之時大矣哉象曰澤中有火革君子以治厤明時初九鞏用黃牛之革象曰鞏用黃牛不可以有為也六二巳日乃革之征吉无咎象曰巳日革之行有嘉也九三征凶貞厲革言三就有孚象曰革言三就又何之矣九四悔亡有孚改命吉象曰改命之吉信志也九五大人虎變未占有孚象曰大人虎變其文炳也上六君子豹變小人革面征凶居貞吉象曰君子豹變其文蔚也小人革面順以從君也
+  hash: sha256:4e031af0a90d3fe94eab3c6007c623d05a37ecc0295c8edb093a72f3da06e950
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_049-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:8163df22e107c5b702e056f5223b41beb1ca6d2109927819272a9cbd64b8bb6f

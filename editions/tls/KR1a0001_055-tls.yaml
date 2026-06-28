@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/55
+seq: 55
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 豐第五十五離下震上豐亨王假之勿憂宜日中彖曰豐大也明以動故豐王假之尚大也勿憂宜日中宜照天下也日中則昃月盈則食天地盈虛與時消息而況於人乎況於鬼神乎象曰雷電皆至豐君子以折獄致刑初九遇其配主雖旬无咎往有尚象曰雖旬无咎過旬災也六二豐其蔀日中見斗往得疑疾有孚發若吉象曰有孚發若信以發志也九三豐其沛日中見沬折其右肱无咎象曰豐其沛不可大事也折其右肱終不可用也九四豐其蔀日中見斗遇其夷主吉象曰豐其蔀位不當也日中見斗幽不明也遇其夷主吉行也六五來章有慶譽吉象曰六五之吉有慶也上六豐其屋蔀其家闚其戶闃其无人三歲不覿凶象曰豐其屋天際翔也闚其戶闃其无人自藏也
+  hash: sha256:012e886bdf06bea73faebf4bd34c39bd2bc2886dc04ed781e1bf017584a9049a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_055-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:264f29cbd5552e81e15fec2d6011d59a0732a0005d977e54cbc3735204ac563a

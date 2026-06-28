@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鼎第五十巽下離上鼎元吉亨彖曰鼎象也以木巽火亨飪也聖人亨以享上帝而大亨以養聖賢巽而耳目聰明柔進而上行得中而應乎剛是以元亨象曰木上有火鼎君子以正位凝命初六鼎顛趾利出否得妾以其子无咎象曰鼎顛趾未悖也利出否以從貴也九二鼎有實我仇有疾不我能即吉象曰鼎有實慎所之也我仇有疾終无尤也九三鼎耳革其行塞雉膏不食方雨虧悔終吉象曰鼎耳革失其義也九四鼎折足覆公餗其形渥凶象曰覆公餗信如何也六五鼎黃耳金鉉利貞象曰鼎黃耳中以為實也上九鼎玉鉉大吉无不利象曰玉鉉在上剛柔節也
+  hash: sha256:3c28c042c8ffaea24fa8ee955cbf8a8039c2e30c1c4e71a06e04301b9e80a665
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_050-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:adccb80dc6f505e1e61e4f7c7ae7ab970524d07dee6f14e4f5e56b6b1e0a101e

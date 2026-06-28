@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 晉第三十五坤下離上晉康侯用錫馬蕃庶晝日三接彖曰晉進也明出地上順而麗乎大明柔進而上行是以康侯用錫馬蕃庶晝日三接也象曰明出地上晉君子以自昭明德初六晉如摧如貞吉罔孚裕無咎象曰晉如摧如獨行正也裕無咎未受命也六二晉如愁如貞吉受茲介福于其王母象曰受茲介福以中正也六三衆允悔亡象曰衆允之志上行也九四晉如鼫鼠貞厲象曰鼫鼠貞厲位不當也六五悔亡失得勿恤往吉無不利象曰失得勿恤往有慶也上九晉其角維用伐邑厲吉無咎貞吝象曰維用伐邑道未光也
+  hash: sha256:59c6615814b8b73e07eb62843bae11462d88ecc8a52bc98e9651b3b282220af4
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_035-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:1e80a0ffba13a2672a0a47493892f930830048df3901ad96d40fc0948ae6a3e4

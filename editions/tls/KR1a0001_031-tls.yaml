@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/31
+seq: 31
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 咸第三十一艮下兌上咸亨利貞取女吉彖曰咸感也柔上而剛下二氣感應以相與止而說男下女是以亨利貞取女吉也天地感而萬物化生聖人感人心而天下和平觀其所感而天地萬物之情可見矣象曰山上有澤咸君子以虛受人初六咸其拇象曰咸其拇志在外也六二咸其腓凶居吉象曰雖凶居吉順不害也九三咸其股執其隨往吝象曰咸其股亦不處也志在隨人所執下也九四貞吉悔亡憧憧往來朋從爾思象曰貞吉悔亡未感害也憧憧往來未光大也九五咸其脢无悔象曰咸其脢志末也上六咸其輔頰舌象曰咸其輔頰舌滕口說也
+  hash: sha256:17563354895711f4b07fc4d89b39c489e09125bf52be74e378f2477d340d5876
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_031-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:1c66106e5803e6ede038aa33d40afddaccbf070838c019e3111491e89b363c9b

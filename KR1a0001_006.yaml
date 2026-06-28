@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 訟第六坎下乾上訟有孚窒惕中吉終凶利見大人不利涉大川彖曰訟上剛下險險而健訟訟有孚窒惕中吉剛來而得中也終凶訟不可成也利見大人尚中正也不利涉大川入于淵也象曰天與水違行訟君子以作事謀始初六不永所事小有言終吉象曰不永所事訟不可長也雖小有言其辨明也九二不克訟歸而逋其邑人三百户無眚象曰不克訟歸逋竄也自下訟上患至掇也六三食舊德貞厲終吉或從王事無成象曰食舊德從上吉也九四不克訟復即命渝安貞吉象曰復即命渝安貞不失也九五訟元吉象曰訟元吉以中正也上九或錫之鞶帶終朝三褫之象曰以訟受服亦不足敬也
+  hash: sha256:66041cc131af616330b010eb174b19a75add17ab10926709e78b842eb7b1dfe0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_006-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:78a72ca3dd07fc615e311ad8015aac9404f9739f31533ed77af9f0c0eff3191d

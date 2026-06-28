@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 艮第五十二艮下艮上艮其背不獲其身行其庭不見其人無咎彖曰艮止也時止則止時行則行動靜不失其時其道光明艮其止止其所也上下敵應不相與也是以不獲其身行其庭不見其人無咎也象曰兼山艮君子以思不出其位初六艮其趾無咎利永貞象曰艮其趾未失正也六二艮其腓不拯其隨其心不快象曰不拯其隨未退聽也九三艮其限列其夤厲薰心象曰艮其限危薰心也六四艮其身無咎象曰艮其身止諸躬也六五艮其輔言有序悔亡象曰艮其輔以中正也上九敦艮吉象曰敦艮之吉以厚終也
+  hash: sha256:b0760269797deb72fab0be96aff3c3c60098787406ff4e2e94aa137fe7bd2491
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_052-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:132a8a70a07c6db4dd93e959f236b755dd2304cecaaddf3fe6378f9b6615c587

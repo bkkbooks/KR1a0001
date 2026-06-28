@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歸妹第五十四兌下震上歸妹征凶无攸利彖曰歸妹天地之大義也天地不交而萬物不興歸妹人之終始也說以動所歸妹也征凶位不當也无攸利柔乘剛也象曰澤上有雷歸妹君子以永終知敝初九歸妹以娣跛能履征吉象曰歸妹以娣以恆也跛能履吉相承也九二眇能視利幽人之貞象曰利幽人之貞未變常也六三歸妹以須反歸以娣象曰歸妹以須未當也九四歸妹愆期遲歸有時象曰愆期之志有待而行也六五帝乙歸妹其君之袂不如其娣之袂良月幾望吉象曰帝乙歸妹不如其娣之袂良也其位在中以貴行也上六女承筐无實士刲羊无血无攸利象曰上六无實承虛筐也
+  hash: sha256:cb027f8c88580139a51d5a6ed2572efd8b656a33615b317b1b750cbd162da279
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_054-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:de28d624bc25750ff3b7f9cb8893ebafc5381ee3c2d44418e1403f01880d320b

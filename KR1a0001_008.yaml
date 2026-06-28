@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 比第八坤下坎上比吉原筮元永貞無咎不寧方來後夫凶彖曰比吉也比輔也下順從也比吉原筮元永貞無咎以剛中也不寧方來上下應也後夫凶其道窮也象曰地上有水比先王以建萬國親諸侯初六有孚比之無咎有孚盈缶終來有它吉象曰比之初六有它吉也六二比之自內貞吉象曰比之自內不自失也六三比之匪人象曰比之匪人不亦傷乎六四外比之貞吉象曰外比於賢以從上也九五顯比王用三驅失前禽邑人不誡吉象曰顯比之吉位正中也舍逆取順失前禽也邑人不誡上使中也上六比之無首凶象曰比之無首無所終也
+  hash: sha256:db8a4b198f22d36c5d523e4a036de64fc4e24da84a5a56bdde04b64b12e3612e
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_008-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:78b40a6b6aaed6ece1126bbb928b92251f2ffa0c19c7f8c26ac75af7caae11f9

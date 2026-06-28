@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/64
+seq: 64
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未濟第六十四坎下離上未濟亨小狐汔濟濡其尾無攸利彖曰未濟亨柔得中也小狐汔濟未出中也濡其尾無攸利不續終也雖不當位剛柔應也象曰火在水上未濟君子以慎辨物居方初六濡其尾吝象曰濡其尾亦不知極也九二曳其輪貞吉象曰九二貞吉中以行直也六三未濟征凶利涉大川象曰未濟征凶位不當也九四貞吉悔亡震用伐鬼方三年有賞于大國象曰貞吉悔亡志行也六五貞吉無悔君子之光有孚吉象曰君子之光其暉吉也上九有孚于飲酒無咎濡其首有孚失是象曰飲酒濡首亦不知節也
+  hash: sha256:cfee79b91da2626786391ce166b3c742d6729174ba8ba12cb2bd3e77c25994fa
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_064-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:71ab77788dc943f7a2bb7372bb0e9be2131af3b420285ef2e29e0d32ac7e0383

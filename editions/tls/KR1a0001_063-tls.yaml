@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/63
+seq: 63
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 既濟第六十三離下坎上既濟亨小利貞初吉終亂彖曰既濟亨小者亨也利貞剛柔正而位當也初吉柔得中也終止則亂其道窮也象曰水在火上既濟君子以思患而豫防之初九曳其輪濡其尾无咎象曰曳其輪義无咎也六二婦喪其茀勿逐七日得象曰七日得以中道也九三高宗伐鬼方三年克之小人勿用象曰三年克之憊也六四繻有衣袽終日戒象曰終日戒有所疑也九五東鄰殺牛不如西鄰之禴祭實受其福象曰東鄰殺牛不如西鄰之時也實受其福吉大來也上六濡其首厲象曰濡其首厲何可久也
+  hash: sha256:7f43ef64109cd028c232844f7fce738f68c3e2d0ad2f4b269f9aec2c1367a721
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_063-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:0dd6ac273ab64ad5667c8e1e446f3d0c1595697b38fe4e83d79fd118797bbf99

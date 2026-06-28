@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蠱第十八巽下艮上蠱元亨利涉大川先甲三日後甲三日彖曰蠱剛上而柔下巽而止蠱蠱元亨而天下治也利涉大川往有事也先甲三日後甲三日終則有始天行也象曰山下有風蠱君子以振民育德初六幹父之蠱有子考无咎厲終吉象曰幹父之蠱意承考也九二幹母之蠱不可貞象曰幹母之蠱得中道也九三幹父之蠱小有悔无大咎象曰幹父之蠱終无咎也六四裕父之蠱往見吝象曰裕父之蠱往未得也六五幹父之蠱用譽象曰幹父用譽承以德也上九不事王侯高尚其事象曰不事王侯志可則也
+  hash: sha256:6ba1ec58cac849b43216cb23c1e4334bf0d55455b21406680d02c57efb4a73a7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_018-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:1093f875b4bfe176a14eea491c9c57fe8d64d63ba426968982af874f57324dd5

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 解第四十坎下震上解利西南无所往其來復吉有攸往夙吉彖曰解險以動動而免乎險解解利西南往得眾也其來復吉乃得中也有攸往夙吉往有功也天地解而雷雨作雷雨作而百果草木皆甲坼解之時大矣哉象曰雷雨作解君子以赦過宥罪初六无咎象曰剛柔之際義无咎也九二田獲三狐得黃矢貞吉象曰九二貞吉得中道也六三負且乘致寇至貞吝象曰負且乘亦可醜也自我致戎又誰咎也九四解而拇朋至斯孚象曰解而拇未當位也六五君子維有解吉有孚于小人象曰君子有解小人退也上六公用射隼于高墉之上獲之无不利象曰公用射隼以解悖也
+  hash: sha256:d3ba72423b42ea01c38289fcff9b8bed6fbdfb81f57b1e868871ea59310b3b7c
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_040-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:87922e79c741f665b4aa35ac2e64878de01505d189cfcf49fb0ad7c748d7c52f

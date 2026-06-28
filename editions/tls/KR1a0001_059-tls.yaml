@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/59
+seq: 59
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 渙第五十九坎下巽上渙亨王假有廟利涉大川利貞彖曰渙亨剛來而不窮柔得位乎外而上同王假有廟王乃在中也利涉大川乘木有功也象曰風行水上渙先王以享于帝立廟初六用拯馬壯吉象曰初六之吉順也九二渙奔其机悔亡象曰渙奔其机得願也六三渙其躬无悔象曰渙其躬志在外也六四渙其群元吉渙有丘匪夷所思象曰渙其群元吉光大也九五渙汗其大號渙王居无咎象曰王居无咎正位也上九渙其血去逖出无咎象曰渙其血遠害也
+  hash: sha256:9476ba98592080d7b99def2dbf2824e026989aa37b288de24a742ff5edd690d0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_059-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:cf3d21ea483a21e6ba2f9e74255773a40b04bb7397617f5bb1600d75c4e9ad27

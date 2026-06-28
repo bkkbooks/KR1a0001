@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/43
+seq: 43
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夬第四十三乾下兌上夬揚于王庭孚號有厲告自邑不利即戎利有攸往彖曰夬決也剛決柔也健而說決而和揚于王庭柔乘五剛也孚號有厲其危乃光也告自邑不利即戎所尚乃窮也利有攸往剛長乃終也象曰澤上於天夬君子以施祿及下居德則忌初九壯于前趾往不勝為咎象曰不勝而往咎也九二惕號莫夜有戎勿恤象曰有戎勿恤得中道也九三壯于頄有凶君子夬夬獨行遇雨若濡有慍无咎象曰君子夬夬終无咎也九四臀无膚其行次且牽羊悔亡聞言不信象曰其行次且位不當也聞言不信聰不明也九五莧陸夬夬中行无咎象曰中行无咎中未光也上六无號終有凶象曰无號之凶終不可長也
+  hash: sha256:4420ae8015ef31e4f593f24ece674365803feccb94dfd9888de8f49a0b6c2c31
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_043-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:d08344617a5c2901684e73785fe8bd3a80053a26454152df34528fbab58682e2

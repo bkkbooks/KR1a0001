@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明夷第三十六離下坤上明夷利艱貞彖曰明入地中明夷內文明而外柔順以蒙大難文王以之利艱貞晦其明也內難而能正其志箕子以之象曰明入地中明夷君子以蒞衆用晦而明初九明夷于飛垂其翼君子于行三日不食有攸往主人有言象曰君子于行義不食也六二明夷夷于左股用拯馬壯吉象曰六二之吉順以則也九三明夷于南狩得其大首不可疾貞象曰南狩之志乃大得也六四入于左腹獲明夷之心于出門庭象曰入于左腹獲心意也六五箕子之明夷利貞象曰箕子之貞明不可息也上六不明晦初登于天後入于地象曰初登于天照四國也後入于地失則也
+  hash: sha256:0719c95d550b97bd60819055762b67fb8c7b3ad5f6f46ef140fe70a761e3ba04
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_036-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:4e79fe450dcec142a2b61e654663f9592cb88f3034047d1b1d9056df02c5ce91

@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 豫第十六坤下震上豫利建侯行師彖曰豫剛應而志行順以動豫豫順以動故天地如之而況建侯行師乎天地以順動故日月不過而四時不忒聖人以順動則刑罰清而民服豫之時義大矣哉象曰雷出地奮豫先王以作樂崇德殷薦之上帝以配祖考初六鳴豫凶象曰初六鳴豫志窮凶也六二介于石不終日貞吉象曰不終日貞吉以中正也六三盱豫悔遲有悔象曰盱豫有悔位不當也九四由豫大有得勿疑朋盍簪象曰由豫大有得志大行也六五貞疾恆不死象曰六五貞疾乘剛也恆不死中未亡也上六冥豫成有渝無咎象曰冥豫在上何可長也
+  hash: sha256:fc02f863dd704694612c04d6826e4f02bc77b079f1de837f3513195d97ffca09
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_016-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:55a70f5520f4d8e28e301559ef05252809d75ad80b69fa7be23f167dc45f23e6

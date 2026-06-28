@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 无妄第二十五震下乾上无妄元亨利貞其匪正有眚不利有攸往彖曰无妄剛自外來而為主於內動而健剛中而應大亨以正天之命也其匪正有眚不利有攸往无妄之往何之矣天命不祐行矣哉象曰天下雷行物與无妄先王以茂對時育萬物初九无妄往吉象曰无妄之往得志也六二不耕穫不菑畬則利有攸往象曰不耕穫未富也六三无妄之災或繫之牛行人之得邑人之災象曰行人得牛邑人災也九四可貞无咎象曰可貞无咎固有之也九五无妄之疾勿藥有喜象曰无妄之藥不可試也上九无妄行有眚无攸利象曰无妄之行窮之災也
+  hash: sha256:bc32711e7b0df880011e7e35272d8c26626c2f3b6f6808584c0b10bccb0201f8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_025-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:ac4d1f942c25c5710db27dba8c78ed231eec3829c651e046f5df1e7eed80d2d5

@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR1a0001/bkk/v1/markers/56
+seq: 56
+markers:
+  front: []
+  body:
+  - {type: substitution, offset: 105, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0024}}
+  back: []
+hash: sha256:d1ef8b0bb1a9e3927ba8ed5c63e3845d82262cfeaec67c7ffe03940a06026ede

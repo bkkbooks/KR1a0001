@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 離第三十離下離上離利貞亨畜牝牛吉彖曰離麗也日月麗乎天百穀草木麗乎土重明以麗乎正乃化成天下柔麗乎中正故亨是以畜牝牛吉也象曰明兩作離大人以繼明照于四方初九履錯然敬之无咎象曰履錯之敬以辟咎也六二黃離元吉象曰黃離元吉得中道也九三日昃之離不鼓缶而歌則大耋之嗟凶象曰日昃之離何可久也九四突如其來如焚如死如棄如象曰突如其來如无所容也六五出涕沱若戚嗟若吉象曰六五之吉離王公也上九王用出征有嘉折首獲匪其醜无咎象曰王用出征以正邦也
+  hash: sha256:dedaaa1c857e558a4cc75b59bfe6b90bf6845af6509d5461cd16d4e96414842a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_030-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:69e4a20aea4564e6c0b5f1d8972aa465dfc785e99b9f2ce6b644cd3ee946d0f3

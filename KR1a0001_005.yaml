@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 需第五乾下坎上需有孚光亨貞吉利涉大川彖曰需須也險在前也剛健而不陷其義不困窮矣需有孚光亨貞吉位乎天位以正中也利涉大川往有功也象曰雲上於天需君子以飲食宴樂初九需于郊利用恆無咎象曰需于郊不犯難行也利用恆無咎未失常也九二需于沙小有言終吉象曰需于沙行在中也雖小有言以吉終也九三需于泥致寇至象曰需于泥災在外也自我致寇敬慎不敗也六四需于血出自穴象曰需于血順以聽也九五需于酒食貞吉象曰酒食貞吉以中正也上六入于穴有不速之客三人來敬之終吉象曰不速之客來敬之終吉也雖不當位未大失也
+  hash: sha256:fae309dc70df183c776dff6ae3297a39011e816413444220e1f6fb3b6d016f36
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_005-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:e245acbfd7fcfecd3942b239f22aae6cc77872b36d44bc09e53b639d0af6ad0d

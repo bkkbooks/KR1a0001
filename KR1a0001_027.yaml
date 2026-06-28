@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/27
+seq: 27
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 頤第二十七震下艮上頤貞吉觀頤自求口實彖曰頤貞吉養正則吉也觀頤觀其所養也自求口實觀其自養也天地養萬物聖人養賢以及萬民頤之時大矣哉象曰山下有雷頤君子以慎言語節飲食初九舍爾靈龜觀我朵頤凶象曰觀我朵頤亦不足貴也六二顛頤拂經于丘頤征凶象曰六二征凶行失類也六三拂頤貞凶十年勿用無攸利象曰十年勿用道大悖也六四顛頤吉虎視耽耽其欲逐逐無咎象曰顛頤之吉上施光也六五拂經居貞吉不可涉大川象曰居貞之吉順以從上也上九由頤厲吉利涉大川象曰由頤厲吉大有慶也
+  hash: sha256:b41fa90002418e6d2885a908c217b01dea00615cf76693414993aa98ab46638a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_027-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:ca5cc531380b2eee09f7293c071d6f3818bc6e81a4661fb39581a734567692c9

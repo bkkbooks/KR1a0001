@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 屯第三震下坎上屯元亨利貞勿用有攸往利建侯彖曰屯剛柔始交而難生動乎險中大亨貞雷雨之動滿盈天造草昧宜建侯而不寧象曰雲雷屯君子以經綸初九磐桓利居貞利建侯象曰雖磐桓志行正也以貴下賤大得民也六二屯如邅如乘馬班如匪寇婚媾女子貞不字十年乃字象曰六二之難乘剛也十年乃字反常也六三即鹿無虞惟入于林中君子幾不如舍往吝象曰即鹿無虞以從禽也君子舍之往吝窮也六四乘馬班如求婚媾往吉無不利象曰求而往明也九五屯其膏小貞吉大貞凶象曰屯其膏施未光也上六乘馬班如泣血漣如象曰泣血漣如何可長也
+  hash: sha256:64f6f20a0a36b125298ebda0eb264eafa6bb97eb5f3868c55bd0e4a2f960329b
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_003-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:1e18795a71ec516c3121cd0b9a112af97a4864d7a86b6c11224b65de2f8816b8

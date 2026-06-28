@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/53
+seq: 53
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 漸第五十三艮下巽上漸女歸吉利貞彖曰漸之進也女歸吉也進得位往有功也進以正可以正邦也其位剛得中也止而巽動不窮也象曰山上有木漸君子以居賢德善俗初六鴻漸于干小子厲有言無咎象曰小子之厲義無咎也六二鴻漸于磐飲食衎衎吉象曰飲食衎衎不素飽也九三鴻漸于陸夫征不復婦孕不育凶利禦寇象曰夫征不復離群醜也婦孕不育失其道也利用禦寇順相保也六四鴻漸于木或得其桷無咎象曰或得其桷順以巽也九五鴻漸于陵婦三歲不孕終莫之勝吉象曰終莫之勝吉得所願也上九鴻漸于陸其羽可用為儀吉象曰其羽可用為儀吉不可亂也
+  hash: sha256:781494e8ca08cdf9a086d35152e89ec5599bade377789332f91203285520095a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_053-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:9be6c13bb076f26a1480e535e05b44439c7bd6f21215a29be4b56553f14d8a1e

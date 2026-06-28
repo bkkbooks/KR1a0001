@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復第二十四震下坤上復亨出入無疾朋來無咎反復其道七日來復利有攸往彖曰復亨剛反動而以順行是以出入無疾朋來無咎反復其道七日來復天行也利有攸往剛長也復其見天地之心乎象曰雷在地中復先王以至日閉關商旅不行后不省方初九不遠復無祗悔元吉象曰不遠之復以修身也六二休復吉象曰休復之吉以下仁也六三頻復厲無咎象曰頻復之厲義無咎也六四中行獨復象曰中行獨復以從道也六五敦復無悔象曰敦復無悔中以自考也上六迷復凶有災眚用行師終有大敗以其國君凶至于十年不克征象曰迷復之凶反君道也
+  hash: sha256:00f2f4f90e0180eb70a67ade05808cd517b4c54901ea59b02fe3b2c35dd7ff60
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_024-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:476d7ba82bbfd178ba6cb32a75c4eea6b59bce1fcfb41cf0053748afaced455b

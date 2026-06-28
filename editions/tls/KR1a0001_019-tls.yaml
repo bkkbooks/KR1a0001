@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/19
+seq: 19
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臨第十九兌下坤上臨元亨利貞至于八月有凶彖曰臨剛浸而長說而順剛中而應大亨以正天之道也至于八月有凶消不久也象曰澤上有地臨君子以教思无窮容保民无疆初九咸臨貞吉象曰咸臨貞吉志行正也九二咸臨吉无不利象曰咸臨吉无不利未順命也六三甘臨无攸利既憂之无咎象曰甘臨位不當也既憂之咎不長也六四至臨无咎象曰至臨无咎位當也六五知臨大君之宜吉象曰大君之宜行中之謂也上六敦臨吉无咎象曰敦臨之吉志在內也
+  hash: sha256:67e4467be5bf50ac50c2a52ee27ac8b1ad3677dedd45b44b39bfd219ed77200f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_019-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:1f9cf3fba08b30d18afe93bdcbe2d2f049f4285992c6eccc603b3214f494d338

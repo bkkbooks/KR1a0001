@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小過第六十二艮下震上小過亨利貞可小事不可大事飛鳥遺之音不宜上宜下大吉彖曰小過亨小者過而亨也過以利貞與時行也柔得中是以小事吉也剛失位而不中是以不可大事也有飛鳥之象焉飛鳥遺之音不宜上宜下大吉上逆而下順也象曰山上有雷小過君子以行過乎恭喪過乎哀用過乎儉初六飛鳥以凶象曰飛鳥以凶不可如何也六二過其祖遇其妣不及其君遇其臣无咎象曰不及其君臣不可過也九三弗過防之從或戕之凶象曰從或戕之凶如何也九四无咎弗過遇之往厲必戒勿用永貞象曰弗過遇之位不當也往厲必戒終不可長也六五密雲不雨自我西郊公弋取彼在穴象曰密雲不雨已上也上六弗遇過之飛鳥離之凶是謂災眚象曰弗遇過之已亢也
+  hash: sha256:a0c73abe80c6dfeb82f4fd5dfe6c4e9d6fe685a6b84effa94397914650481fde
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_062-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:5f959752728ce065f626fa200a28cf7b185b939bebe1cbb942ba6d39e5132fe5

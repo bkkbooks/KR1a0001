@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/69
+seq: 69
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雜卦乾剛坤柔比樂師憂臨觀之義或與或求屯見而不失其居蒙雜而著震起也艮止也損益盛衰之始也大畜時也无妄災也萃聚而升不來也謙輕而豫怠也噬嗑食也賁无色也兌見而巽伏也隨无故也蠱則飭也剝爛也復反也晉晝也明夷誅也井通而困相遇也咸速也恆久也渙離也節止也解緩也蹇難也睽外也家人內也否泰反其類也大壯則止遯則退也大有眾也同人親也革去故也鼎取新也小過過也中孚信也豐多故也親寡旅也離上而坎下也小畜寡也履不處也需不進也訟不親也大過顛也姤遇也柔遇剛也漸女歸待男行也頤養正也既濟定也歸妹女之終也未濟男之窮也夬決也剛決柔也君子道長小人道憂也
+  hash: sha256:47f1e388d69e5864a29583948095e8f48e4605def616ed2b4d2b50d8f16108db
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_069-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:9cc458c6c610b12cc183b1e2bdea32a4959138e1ba1e1f4e3cd0df1db59d5ea7

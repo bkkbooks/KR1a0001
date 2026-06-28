@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1a0001/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 否第十二坤下乾上否否之匪人不利君子貞大往小來彖曰否之匪人不利君子貞大往小來則是天地不交而萬物不通也上下不交而天下無邦也內陰而外陽內柔而外剛內小人而外君子小人道長君子道消也象曰天地不交否君子以儉德辟難不可榮以祿初六拔茅茹以其彙貞吉亨象曰拔茅貞吉志在君也六二苞承小人吉大人否亨象曰大人否亨不亂群也六三苞羞象曰苞羞位不當也九四有命無咎疇離祉象曰有命無咎志行也九五休否大人吉其亡其亡繫于苞桑象曰大人之吉位正當也上九傾否先否後喜象曰否終則傾何可長也
+  hash: sha256:a4f830280abd994eb1039193841939d7aa40446a83042af56af6e1d68380d350
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1a0001_tls_012-1a.3-h}
+metadata:
+  title: 周易
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR1a0001.xml
+hash: sha256:4122a94e74ac41039e22eecc8729c2514bd50a418a4b5a4538e6d8ba92d79a38
