@@ -2,7 +2,7 @@
 
 ## Identification
 
-- **Manifest date:** 2026-06-23T06:43:50+00:00
+- **Manifest date:** 2026-07-02T06:07:18+00:00
 - **Title:** 周易
 - **Title (pinyin):** Zhōuyì
 - **Title (English):** The Changes of Zhōu
@@ -21,7 +21,7 @@ Total: **21,584**
 | Bucket | Total | Unique |
 |---|---:|---:|
 | front | 913 | 165 |
-| body | 20,671 | 1,348 |
+| body | 20,671 | 1,355 |
 | back | 0 | 0 |
 
 PUA: **0** occurrences, **0** unique.
@@ -30,8 +30,7 @@ PUA: **0** occurrences, **0** unique.
 
 | Type | Count |
 |---|---:|
-| punctuation | 1,034 |
-| substitution | 418 |
+| paragraph-break | 2,476 |
+| punctuation | 9,742 |
 | tls:head | 69 |
-| tls:seg | 856 |
-| xml-element | 222 |
+| tls:seg | 7,342 |
