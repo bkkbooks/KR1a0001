@@ -100,6 +100,7 @@ markers:
   - {type: 'tls:seg', offset: 97, content: '', id: KR1a0001_tls_057-7a.5}
   - {type: punctuation, offset: 100, content: 、, id: KR1a0001_tls_057-bkkpn45}
   - {type: 'tls:seg', offset: 100, content: '', id: KR1a0001_tls_057-7a.6}
+  - {type: substitution, offset: 100, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 102, content: 。, id: KR1a0001_tls_057-bkkpn46}
   - {type: 'tls:seg', offset: 102, content: '', id: KR1a0001_tls_057-8a.1}
   - {type: paragraph-break, offset: 102, content: '', id: KR1a0001_tls_057-bkkp17, role: close}
@@ -176,8 +177,10 @@ markers:
   - {type: 'tls:seg', offset: 146, content: '', id: KR1a0001_tls_057-13a.4}
   - {type: punctuation, offset: 148, content: ，, id: KR1a0001_tls_057-bkkpn80}
   - {type: 'tls:seg', offset: 148, content: '', id: KR1a0001_tls_057-13a.5}
+  - {type: substitution, offset: 148, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 151, content: ，, id: KR1a0001_tls_057-bkkpn81}
   - {type: 'tls:seg', offset: 151, content: '', id: KR1a0001_tls_057-13a.6}
+  - {type: substitution, offset: 151, original: 无, replacement: 無, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16186}}
   - {type: punctuation, offset: 155, content: 。, id: KR1a0001_tls_057-bkkpn82}
   - {type: 'tls:seg', offset: 155, content: '', id: KR1a0001_tls_057-13a.7}
   - {type: punctuation, offset: 159, content: ，, id: KR1a0001_tls_057-bkkpn83}
@@ -242,4 +245,4 @@ markers:
   - {type: paragraph-break, offset: 203, content: '', id: KR1a0001_tls_057-bkkp35, role: close}
   - {type: paragraph-break, offset: 203, content: '', id: KR1a0001_tls_057-bkkp36, role: open}
   back: []
-hash: sha256:c1b3116f8f278bab6689ab9e2b7c5d074f2c184544dab20bb6ae93aaa5a5adaa
+hash: sha256:30d9c62b3e1afd39caea8253b75d0b6c158a2f0fdb7c7b60b634439233d22b74

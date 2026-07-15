@@ -166,551 +166,1373 @@ assets:
   - {seq: 68, role: markers, filename: assets/KR1a0001_068-tls.markers.yaml, hash: 'sha256:60595d559cfb0247b380b4de07dee371ed9c179e0aaa1b286f5cee96508813ac'}
   - {seq: 69, role: markers, filename: assets/KR1a0001_069-tls.markers.yaml, hash: 'sha256:f18eaca9c92ce5cd25a319243dedf09b3b6ffd3483bd559db7dcd8f69edb11b0'}
 table_of_contents:
-- ref: {seq: 1, marker_id: KR1a0001_tls_001-1a.3-h, span: [body, 0, 1003]}
+- ref:
+    seq: 1
+    marker_id: KR1a0001_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 1003
   label: 乾第一
   type: section
   level: 1
-- ref: {seq: 2, marker_id: KR1a0001_tls_001-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 2
+    marker_id: KR1a0001_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 乾第一
   type: section
   level: 1
-- ref: {seq: 2, marker_id: KR1a0001_tls_002-1a.3-h, span: [body, 0, 541]}
+- ref:
+    seq: 2
+    marker_id: KR1a0001_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 541
   label: 坤第二
   type: section
   level: 1
-- ref: {seq: 3, marker_id: KR1a0001_tls_002-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 3
+    marker_id: KR1a0001_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 坤第二
   type: section
   level: 1
-- ref: {seq: 3, marker_id: KR1a0001_tls_003-1a.3-h, span: [body, 0, 227]}
+- ref:
+    seq: 3
+    marker_id: KR1a0001_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 227
   label: 屯第三
   type: section
   level: 1
-- ref: {seq: 4, marker_id: KR1a0001_tls_003-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 4
+    marker_id: KR1a0001_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 屯第三
   type: section
   level: 1
-- ref: {seq: 4, marker_id: KR1a0001_tls_004-1a.3-h, span: [body, 0, 222]}
+- ref:
+    seq: 4
+    marker_id: KR1a0001_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 222
   label: 蒙第四
   type: section
   level: 1
-- ref: {seq: 5, marker_id: KR1a0001_tls_004-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 5
+    marker_id: KR1a0001_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 蒙第四
   type: section
   level: 1
-- ref: {seq: 5, marker_id: KR1a0001_tls_005-1a.3-h, span: [body, 0, 229]}
+- ref:
+    seq: 5
+    marker_id: KR1a0001_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 229
   label: 需第五
   type: section
   level: 1
-- ref: {seq: 6, marker_id: KR1a0001_tls_005-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 6
+    marker_id: KR1a0001_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 需第五
   type: section
   level: 1
-- ref: {seq: 6, marker_id: KR1a0001_tls_006-1a.3-h, span: [body, 0, 235]}
+- ref:
+    seq: 6
+    marker_id: KR1a0001_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 235
   label: 訟第六
   type: section
   level: 1
-- ref: {seq: 7, marker_id: KR1a0001_tls_006-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 7
+    marker_id: KR1a0001_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 訟第六
   type: section
   level: 1
-- ref: {seq: 7, marker_id: KR1a0001_tls_007-1a.3-h, span: [body, 0, 219]}
+- ref:
+    seq: 7
+    marker_id: KR1a0001_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 219
   label: 師第七
   type: section
   level: 1
-- ref: {seq: 8, marker_id: KR1a0001_tls_007-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 8
+    marker_id: KR1a0001_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 師第七
   type: section
   level: 1
-- ref: {seq: 8, marker_id: KR1a0001_tls_008-1a.3-h, span: [body, 0, 216]}
+- ref:
+    seq: 8
+    marker_id: KR1a0001_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 216
   label: 比第八
   type: section
   level: 1
-- ref: {seq: 9, marker_id: KR1a0001_tls_008-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 9
+    marker_id: KR1a0001_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 比第八
   type: section
   level: 1
-- ref: {seq: 9, marker_id: KR1a0001_tls_009-1a.3-h, span: [body, 0, 204]}
+- ref:
+    seq: 9
+    marker_id: KR1a0001_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 204
   label: 小畜第九
   type: section
   level: 1
-- ref: {seq: 10, marker_id: KR1a0001_tls_009-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 10
+    marker_id: KR1a0001_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 小畜第九
   type: section
   level: 1
-- ref: {seq: 10, marker_id: KR1a0001_tls_010-1a.3-h, span: [body, 0, 213]}
+- ref:
+    seq: 10
+    marker_id: KR1a0001_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 213
   label: 履第十
   type: section
   level: 1
-- ref: {seq: 11, marker_id: KR1a0001_tls_010-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 11
+    marker_id: KR1a0001_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 履第十
   type: section
   level: 1
-- ref: {seq: 11, marker_id: KR1a0001_tls_011-1a.3-h, span: [body, 0, 251]}
+- ref:
+    seq: 11
+    marker_id: KR1a0001_tls_011-1a.3-h
+    span:
+    - body
+    - 0
+    - 251
   label: 泰第十一
   type: section
   level: 1
-- ref: {seq: 12, marker_id: KR1a0001_tls_011-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 12
+    marker_id: KR1a0001_tls_011-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 泰第十一
   type: section
   level: 1
-- ref: {seq: 12, marker_id: KR1a0001_tls_012-1a.3-h, span: [body, 0, 219]}
+- ref:
+    seq: 12
+    marker_id: KR1a0001_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 219
   label: 否第十二
   type: section
   level: 1
-- ref: {seq: 13, marker_id: KR1a0001_tls_012-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 13
+    marker_id: KR1a0001_tls_012-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 否第十二
   type: section
   level: 1
-- ref: {seq: 13, marker_id: KR1a0001_tls_013-1a.3-h, span: [body, 0, 232]}
+- ref:
+    seq: 13
+    marker_id: KR1a0001_tls_013-1a.3-h
+    span:
+    - body
+    - 0
+    - 232
   label: 同人第十三
   type: section
   level: 1
-- ref: {seq: 14, marker_id: KR1a0001_tls_013-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 14
+    marker_id: KR1a0001_tls_013-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 同人第十三
   type: section
   level: 1
-- ref: {seq: 14, marker_id: KR1a0001_tls_014-1a.3-h, span: [body, 0, 201]}
+- ref:
+    seq: 14
+    marker_id: KR1a0001_tls_014-1a.3-h
+    span:
+    - body
+    - 0
+    - 201
   label: 大有第十四
   type: section
   level: 1
-- ref: {seq: 15, marker_id: KR1a0001_tls_014-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 15
+    marker_id: KR1a0001_tls_014-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 大有第十四
   type: section
   level: 1
-- ref: {seq: 15, marker_id: KR1a0001_tls_015-1a.3-h, span: [body, 0, 217]}
+- ref:
+    seq: 15
+    marker_id: KR1a0001_tls_015-1a.3-h
+    span:
+    - body
+    - 0
+    - 217
   label: 謙第十五
   type: section
   level: 1
-- ref: {seq: 16, marker_id: KR1a0001_tls_015-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 16
+    marker_id: KR1a0001_tls_015-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 謙第十五
   type: section
   level: 1
-- ref: {seq: 16, marker_id: KR1a0001_tls_016-1a.3-h, span: [body, 0, 218]}
+- ref:
+    seq: 16
+    marker_id: KR1a0001_tls_016-1a.3-h
+    span:
+    - body
+    - 0
+    - 218
   label: 豫第十六
   type: section
   level: 1
-- ref: {seq: 17, marker_id: KR1a0001_tls_016-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 17
+    marker_id: KR1a0001_tls_016-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 豫第十六
   type: section
   level: 1
-- ref: {seq: 17, marker_id: KR1a0001_tls_017-1a.3-h, span: [body, 0, 199]}
+- ref:
+    seq: 17
+    marker_id: KR1a0001_tls_017-1a.3-h
+    span:
+    - body
+    - 0
+    - 199
   label: 隨第十七
   type: section
   level: 1
-- ref: {seq: 18, marker_id: KR1a0001_tls_017-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 18
+    marker_id: KR1a0001_tls_017-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 隨第十七
   type: section
   level: 1
-- ref: {seq: 18, marker_id: KR1a0001_tls_018-1a.3-h, span: [body, 0, 202]}
+- ref:
+    seq: 18
+    marker_id: KR1a0001_tls_018-1a.3-h
+    span:
+    - body
+    - 0
+    - 202
   label: 蠱第十八
   type: section
   level: 1
-- ref: {seq: 19, marker_id: KR1a0001_tls_018-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 19
+    marker_id: KR1a0001_tls_018-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 蠱第十八
   type: section
   level: 1
-- ref: {seq: 19, marker_id: KR1a0001_tls_019-1a.3-h, span: [body, 0, 185]}
+- ref:
+    seq: 19
+    marker_id: KR1a0001_tls_019-1a.3-h
+    span:
+    - body
+    - 0
+    - 185
   label: 臨第十九
   type: section
   level: 1
-- ref: {seq: 20, marker_id: KR1a0001_tls_019-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 20
+    marker_id: KR1a0001_tls_019-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 臨第十九
   type: section
   level: 1
-- ref: {seq: 20, marker_id: KR1a0001_tls_020-1a.3-h, span: [body, 0, 195]}
+- ref:
+    seq: 20
+    marker_id: KR1a0001_tls_020-1a.3-h
+    span:
+    - body
+    - 0
+    - 195
   label: 觀第二十
   type: section
   level: 1
-- ref: {seq: 21, marker_id: KR1a0001_tls_020-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 21
+    marker_id: KR1a0001_tls_020-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 觀第二十
   type: section
   level: 1
-- ref: {seq: 21, marker_id: KR1a0001_tls_021-1a.3-h, span: [body, 0, 179]}
+- ref:
+    seq: 21
+    marker_id: KR1a0001_tls_021-1a.3-h
+    span:
+    - body
+    - 0
+    - 179
   label: 噬嗑第二十一
   type: section
   level: 1
-- ref: {seq: 22, marker_id: KR1a0001_tls_021-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 22
+    marker_id: KR1a0001_tls_021-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 噬嗑第二十一
   type: section
   level: 1
-- ref: {seq: 22, marker_id: KR1a0001_tls_022-1a.3-h, span: [body, 0, 208]}
+- ref:
+    seq: 22
+    marker_id: KR1a0001_tls_022-1a.3-h
+    span:
+    - body
+    - 0
+    - 208
   label: 賁第二十二
   type: section
   level: 1
-- ref: {seq: 23, marker_id: KR1a0001_tls_022-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 23
+    marker_id: KR1a0001_tls_022-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 賁第二十二
   type: section
   level: 1
-- ref: {seq: 23, marker_id: KR1a0001_tls_023-1a.3-h, span: [body, 0, 188]}
+- ref:
+    seq: 23
+    marker_id: KR1a0001_tls_023-1a.3-h
+    span:
+    - body
+    - 0
+    - 188
   label: 剝第二十三
   type: section
   level: 1
-- ref: {seq: 24, marker_id: KR1a0001_tls_023-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 24
+    marker_id: KR1a0001_tls_023-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 剝第二十三
   type: section
   level: 1
-- ref: {seq: 24, marker_id: KR1a0001_tls_024-1a.3-h, span: [body, 0, 222]}
+- ref:
+    seq: 24
+    marker_id: KR1a0001_tls_024-1a.3-h
+    span:
+    - body
+    - 0
+    - 222
   label: 復第二十四
   type: section
   level: 1
-- ref: {seq: 25, marker_id: KR1a0001_tls_024-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 25
+    marker_id: KR1a0001_tls_024-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 復第二十四
   type: section
   level: 1
-- ref: {seq: 25, marker_id: KR1a0001_tls_025-1a.3-h, span: [body, 0, 217]}
+- ref:
+    seq: 25
+    marker_id: KR1a0001_tls_025-1a.3-h
+    span:
+    - body
+    - 0
+    - 217
   label: 无妄第二十五
   type: section
   level: 1
-- ref: {seq: 26, marker_id: KR1a0001_tls_025-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 26
+    marker_id: KR1a0001_tls_025-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 无妄第二十五
   type: section
   level: 1
-- ref: {seq: 26, marker_id: KR1a0001_tls_026-1a.3-h, span: [body, 0, 189]}
+- ref:
+    seq: 26
+    marker_id: KR1a0001_tls_026-1a.3-h
+    span:
+    - body
+    - 0
+    - 189
   label: 大畜第二十六
   type: section
   level: 1
-- ref: {seq: 27, marker_id: KR1a0001_tls_026-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 27
+    marker_id: KR1a0001_tls_026-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 大畜第二十六
   type: section
   level: 1
-- ref: {seq: 27, marker_id: KR1a0001_tls_027-1a.3-h, span: [body, 0, 213]}
+- ref:
+    seq: 27
+    marker_id: KR1a0001_tls_027-1a.3-h
+    span:
+    - body
+    - 0
+    - 213
   label: 頤第二十七
   type: section
   level: 1
-- ref: {seq: 28, marker_id: KR1a0001_tls_027-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 28
+    marker_id: KR1a0001_tls_027-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 頤第二十七
   type: section
   level: 1
-- ref: {seq: 28, marker_id: KR1a0001_tls_028-1a.3-h, span: [body, 0, 205]}
+- ref:
+    seq: 28
+    marker_id: KR1a0001_tls_028-1a.3-h
+    span:
+    - body
+    - 0
+    - 205
   label: 大過第二十八
   type: section
   level: 1
-- ref: {seq: 29, marker_id: KR1a0001_tls_028-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 29
+    marker_id: KR1a0001_tls_028-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 大過第二十八
   type: section
   level: 1
-- ref: {seq: 29, marker_id: KR1a0001_tls_029-1a.3-h, span: [body, 0, 228]}
+- ref:
+    seq: 29
+    marker_id: KR1a0001_tls_029-1a.3-h
+    span:
+    - body
+    - 0
+    - 228
   label: 習坎第二十九
   type: section
   level: 1
-- ref: {seq: 30, marker_id: KR1a0001_tls_029-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 30
+    marker_id: KR1a0001_tls_029-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 習坎第二十九
   type: section
   level: 1
-- ref: {seq: 30, marker_id: KR1a0001_tls_030-1a.3-h, span: [body, 0, 205]}
+- ref:
+    seq: 30
+    marker_id: KR1a0001_tls_030-1a.3-h
+    span:
+    - body
+    - 0
+    - 205
   label: 離第三十
   type: section
   level: 1
-- ref: {seq: 31, marker_id: KR1a0001_tls_030-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 31
+    marker_id: KR1a0001_tls_030-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 離第三十
   type: section
   level: 1
-- ref: {seq: 31, marker_id: KR1a0001_tls_031-1a.3-h, span: [body, 0, 217]}
+- ref:
+    seq: 31
+    marker_id: KR1a0001_tls_031-1a.3-h
+    span:
+    - body
+    - 0
+    - 217
   label: 咸第三十一
   type: section
   level: 1
-- ref: {seq: 32, marker_id: KR1a0001_tls_031-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 32
+    marker_id: KR1a0001_tls_031-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 咸第三十一
   type: section
   level: 1
-- ref: {seq: 32, marker_id: KR1a0001_tls_032-1a.3-h, span: [body, 0, 240]}
+- ref:
+    seq: 32
+    marker_id: KR1a0001_tls_032-1a.3-h
+    span:
+    - body
+    - 0
+    - 240
   label: 恆第三十二
   type: section
   level: 1
-- ref: {seq: 33, marker_id: KR1a0001_tls_032-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 33
+    marker_id: KR1a0001_tls_032-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 恆第三十二
   type: section
   level: 1
-- ref: {seq: 33, marker_id: KR1a0001_tls_033-1a.3-h, span: [body, 0, 189]}
+- ref:
+    seq: 33
+    marker_id: KR1a0001_tls_033-1a.3-h
+    span:
+    - body
+    - 0
+    - 189
   label: 遯第三十三
   type: section
   level: 1
-- ref: {seq: 34, marker_id: KR1a0001_tls_033-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 34
+    marker_id: KR1a0001_tls_033-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 遯第三十三
   type: section
   level: 1
-- ref: {seq: 34, marker_id: KR1a0001_tls_034-1a.3-h, span: [body, 0, 200]}
+- ref:
+    seq: 34
+    marker_id: KR1a0001_tls_034-1a.3-h
+    span:
+    - body
+    - 0
+    - 200
   label: 大壯第三十四
   type: section
   level: 1
-- ref: {seq: 35, marker_id: KR1a0001_tls_034-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 35
+    marker_id: KR1a0001_tls_034-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 大壯第三十四
   type: section
   level: 1
-- ref: {seq: 35, marker_id: KR1a0001_tls_035-1a.3-h, span: [body, 0, 206]}
+- ref:
+    seq: 35
+    marker_id: KR1a0001_tls_035-1a.3-h
+    span:
+    - body
+    - 0
+    - 206
   label: 晉第三十五
   type: section
   level: 1
-- ref: {seq: 36, marker_id: KR1a0001_tls_035-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 36
+    marker_id: KR1a0001_tls_035-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 晉第三十五
   type: section
   level: 1
-- ref: {seq: 36, marker_id: KR1a0001_tls_036-1a.3-h, span: [body, 0, 230]}
+- ref:
+    seq: 36
+    marker_id: KR1a0001_tls_036-1a.3-h
+    span:
+    - body
+    - 0
+    - 230
   label: 明夷第三十六
   type: section
   level: 1
-- ref: {seq: 37, marker_id: KR1a0001_tls_036-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 37
+    marker_id: KR1a0001_tls_036-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 明夷第三十六
   type: section
   level: 1
-- ref: {seq: 37, marker_id: KR1a0001_tls_037-1a.3-h, span: [body, 0, 212]}
+- ref:
+    seq: 37
+    marker_id: KR1a0001_tls_037-1a.3-h
+    span:
+    - body
+    - 0
+    - 212
   label: 家人第三十七
   type: section
   level: 1
-- ref: {seq: 38, marker_id: KR1a0001_tls_037-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 38
+    marker_id: KR1a0001_tls_037-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 家人第三十七
   type: section
   level: 1
-- ref: {seq: 38, marker_id: KR1a0001_tls_038-1a.3-h, span: [body, 0, 254]}
+- ref:
+    seq: 38
+    marker_id: KR1a0001_tls_038-1a.3-h
+    span:
+    - body
+    - 0
+    - 254
   label: 睽第三十八
   type: section
   level: 1
-- ref: {seq: 39, marker_id: KR1a0001_tls_038-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 39
+    marker_id: KR1a0001_tls_038-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 睽第三十八
   type: section
   level: 1
-- ref: {seq: 39, marker_id: KR1a0001_tls_039-1a.3-h, span: [body, 0, 205]}
+- ref:
+    seq: 39
+    marker_id: KR1a0001_tls_039-1a.3-h
+    span:
+    - body
+    - 0
+    - 205
   label: 蹇第三十九
   type: section
   level: 1
-- ref: {seq: 40, marker_id: KR1a0001_tls_039-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 40
+    marker_id: KR1a0001_tls_039-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 蹇第三十九
   type: section
   level: 1
-- ref: {seq: 40, marker_id: KR1a0001_tls_040-1a.3-h, span: [body, 0, 227]}
+- ref:
+    seq: 40
+    marker_id: KR1a0001_tls_040-1a.3-h
+    span:
+    - body
+    - 0
+    - 227
   label: 解第四十
   type: section
   level: 1
-- ref: {seq: 41, marker_id: KR1a0001_tls_040-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 41
+    marker_id: KR1a0001_tls_040-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 解第四十
   type: section
   level: 1
-- ref: {seq: 41, marker_id: KR1a0001_tls_041-1a.3-h, span: [body, 0, 235]}
+- ref:
+    seq: 41
+    marker_id: KR1a0001_tls_041-1a.3-h
+    span:
+    - body
+    - 0
+    - 235
   label: 損第四十一
   type: section
   level: 1
-- ref: {seq: 42, marker_id: KR1a0001_tls_041-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 42
+    marker_id: KR1a0001_tls_041-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 損第四十一
   type: section
   level: 1
-- ref: {seq: 42, marker_id: KR1a0001_tls_042-1a.3-h, span: [body, 0, 254]}
+- ref:
+    seq: 42
+    marker_id: KR1a0001_tls_042-1a.3-h
+    span:
+    - body
+    - 0
+    - 254
   label: 益第四十二
   type: section
   level: 1
-- ref: {seq: 43, marker_id: KR1a0001_tls_042-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 43
+    marker_id: KR1a0001_tls_042-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 益第四十二
   type: section
   level: 1
-- ref: {seq: 43, marker_id: KR1a0001_tls_043-1a.3-h, span: [body, 0, 244]}
+- ref:
+    seq: 43
+    marker_id: KR1a0001_tls_043-1a.3-h
+    span:
+    - body
+    - 0
+    - 244
   label: 夬第四十三
   type: section
   level: 1
-- ref: {seq: 44, marker_id: KR1a0001_tls_043-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 44
+    marker_id: KR1a0001_tls_043-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 夬第四十三
   type: section
   level: 1
-- ref: {seq: 44, marker_id: KR1a0001_tls_044-1a.3-h, span: [body, 0, 207]}
+- ref:
+    seq: 44
+    marker_id: KR1a0001_tls_044-1a.3-h
+    span:
+    - body
+    - 0
+    - 207
   label: 姤第四十四
   type: section
   level: 1
-- ref: {seq: 45, marker_id: KR1a0001_tls_044-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 45
+    marker_id: KR1a0001_tls_044-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 姤第四十四
   type: section
   level: 1
-- ref: {seq: 45, marker_id: KR1a0001_tls_045-1a.3-h, span: [body, 0, 235]}
+- ref:
+    seq: 45
+    marker_id: KR1a0001_tls_045-1a.3-h
+    span:
+    - body
+    - 0
+    - 235
   label: 萃第四十五
   type: section
   level: 1
-- ref: {seq: 46, marker_id: KR1a0001_tls_045-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 46
+    marker_id: KR1a0001_tls_045-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 萃第四十五
   type: section
   level: 1
-- ref: {seq: 46, marker_id: KR1a0001_tls_046-1a.3-h, span: [body, 0, 176]}
+- ref:
+    seq: 46
+    marker_id: KR1a0001_tls_046-1a.3-h
+    span:
+    - body
+    - 0
+    - 176
   label: 升第四十六
   type: section
   level: 1
-- ref: {seq: 47, marker_id: KR1a0001_tls_046-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 47
+    marker_id: KR1a0001_tls_046-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 升第四十六
   type: section
   level: 1
-- ref: {seq: 47, marker_id: KR1a0001_tls_047-1a.3-h, span: [body, 0, 262]}
+- ref:
+    seq: 47
+    marker_id: KR1a0001_tls_047-1a.3-h
+    span:
+    - body
+    - 0
+    - 262
   label: 困第四十七
   type: section
   level: 1
-- ref: {seq: 48, marker_id: KR1a0001_tls_047-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 48
+    marker_id: KR1a0001_tls_047-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 困第四十七
   type: section
   level: 1
-- ref: {seq: 48, marker_id: KR1a0001_tls_048-1a.3-h, span: [body, 0, 220]}
+- ref:
+    seq: 48
+    marker_id: KR1a0001_tls_048-1a.3-h
+    span:
+    - body
+    - 0
+    - 220
   label: 井第四十八
   type: section
   level: 1
-- ref: {seq: 49, marker_id: KR1a0001_tls_048-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 49
+    marker_id: KR1a0001_tls_048-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 井第四十八
   type: section
   level: 1
-- ref: {seq: 49, marker_id: KR1a0001_tls_049-1a.3-h, span: [body, 0, 234]}
+- ref:
+    seq: 49
+    marker_id: KR1a0001_tls_049-1a.3-h
+    span:
+    - body
+    - 0
+    - 234
   label: 革第四十九
   type: section
   level: 1
-- ref: {seq: 50, marker_id: KR1a0001_tls_049-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 50
+    marker_id: KR1a0001_tls_049-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 革第四十九
   type: section
   level: 1
-- ref: {seq: 50, marker_id: KR1a0001_tls_050-1a.3-h, span: [body, 0, 221]}
+- ref:
+    seq: 50
+    marker_id: KR1a0001_tls_050-1a.3-h
+    span:
+    - body
+    - 0
+    - 221
   label: 鼎第五十
   type: section
   level: 1
-- ref: {seq: 51, marker_id: KR1a0001_tls_050-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 51
+    marker_id: KR1a0001_tls_050-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 鼎第五十
   type: section
   level: 1
-- ref: {seq: 51, marker_id: KR1a0001_tls_051-1a.3-h, span: [body, 0, 241]}
+- ref:
+    seq: 51
+    marker_id: KR1a0001_tls_051-1a.3-h
+    span:
+    - body
+    - 0
+    - 241
   label: 震第五十一
   type: section
   level: 1
-- ref: {seq: 52, marker_id: KR1a0001_tls_051-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 52
+    marker_id: KR1a0001_tls_051-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 震第五十一
   type: section
   level: 1
-- ref: {seq: 52, marker_id: KR1a0001_tls_052-1a.3-h, span: [body, 0, 204]}
+- ref:
+    seq: 52
+    marker_id: KR1a0001_tls_052-1a.3-h
+    span:
+    - body
+    - 0
+    - 204
   label: 艮第五十二
   type: section
   level: 1
-- ref: {seq: 53, marker_id: KR1a0001_tls_052-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 53
+    marker_id: KR1a0001_tls_052-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 艮第五十二
   type: section
   level: 1
-- ref: {seq: 53, marker_id: KR1a0001_tls_053-1a.3-h, span: [body, 0, 231]}
+- ref:
+    seq: 53
+    marker_id: KR1a0001_tls_053-1a.3-h
+    span:
+    - body
+    - 0
+    - 231
   label: 漸第五十三
   type: section
   level: 1
-- ref: {seq: 54, marker_id: KR1a0001_tls_053-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 54
+    marker_id: KR1a0001_tls_053-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 漸第五十三
   type: section
   level: 1
-- ref: {seq: 54, marker_id: KR1a0001_tls_054-1a.3-h, span: [body, 0, 234]}
+- ref:
+    seq: 54
+    marker_id: KR1a0001_tls_054-1a.3-h
+    span:
+    - body
+    - 0
+    - 234
   label: 歸妹第五十四
   type: section
   level: 1
-- ref: {seq: 55, marker_id: KR1a0001_tls_054-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 55
+    marker_id: KR1a0001_tls_054-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 歸妹第五十四
   type: section
   level: 1
-- ref: {seq: 55, marker_id: KR1a0001_tls_055-1a.3-h, span: [body, 0, 265]}
+- ref:
+    seq: 55
+    marker_id: KR1a0001_tls_055-1a.3-h
+    span:
+    - body
+    - 0
+    - 265
   label: 豐第五十五
   type: section
   level: 1
-- ref: {seq: 56, marker_id: KR1a0001_tls_055-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 56
+    marker_id: KR1a0001_tls_055-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 豐第五十五
   type: section
   level: 1
-- ref: {seq: 56, marker_id: KR1a0001_tls_056-1a.3-h, span: [body, 0, 225]}
+- ref:
+    seq: 56
+    marker_id: KR1a0001_tls_056-1a.3-h
+    span:
+    - body
+    - 0
+    - 225
   label: 旅第五十六
   type: section
   level: 1
-- ref: {seq: 57, marker_id: KR1a0001_tls_056-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 57
+    marker_id: KR1a0001_tls_056-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 旅第五十六
   type: section
   level: 1
-- ref: {seq: 57, marker_id: KR1a0001_tls_057-1a.3-h, span: [body, 0, 203]}
+- ref:
+    seq: 57
+    marker_id: KR1a0001_tls_057-1a.3-h
+    span:
+    - body
+    - 0
+    - 203
   label: 巽第五十七
   type: section
   level: 1
-- ref: {seq: 58, marker_id: KR1a0001_tls_057-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 58
+    marker_id: KR1a0001_tls_057-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 巽第五十七
   type: section
   level: 1
-- ref: {seq: 58, marker_id: KR1a0001_tls_058-1a.3-h, span: [body, 0, 165]}
+- ref:
+    seq: 58
+    marker_id: KR1a0001_tls_058-1a.3-h
+    span:
+    - body
+    - 0
+    - 165
   label: 兌第五十八
   type: section
   level: 1
-- ref: {seq: 59, marker_id: KR1a0001_tls_058-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 59
+    marker_id: KR1a0001_tls_058-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 兌第五十八
   type: section
   level: 1
-- ref: {seq: 59, marker_id: KR1a0001_tls_059-1a.3-h, span: [body, 0, 182]}
+- ref:
+    seq: 59
+    marker_id: KR1a0001_tls_059-1a.3-h
+    span:
+    - body
+    - 0
+    - 182
   label: 渙第五十九
   type: section
   level: 1
-- ref: {seq: 60, marker_id: KR1a0001_tls_059-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 60
+    marker_id: KR1a0001_tls_059-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 渙第五十九
   type: section
   level: 1
-- ref: {seq: 60, marker_id: KR1a0001_tls_060-1a.3-h, span: [body, 0, 187]}
+- ref:
+    seq: 60
+    marker_id: KR1a0001_tls_060-1a.3-h
+    span:
+    - body
+    - 0
+    - 187
   label: 節第六十
   type: section
   level: 1
-- ref: {seq: 61, marker_id: KR1a0001_tls_060-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 61
+    marker_id: KR1a0001_tls_060-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 節第六十
   type: section
   level: 1
-- ref: {seq: 61, marker_id: KR1a0001_tls_061-1a.3-h, span: [body, 0, 208]}
+- ref:
+    seq: 61
+    marker_id: KR1a0001_tls_061-1a.3-h
+    span:
+    - body
+    - 0
+    - 208
   label: 中孚第六十一
   type: section
   level: 1
-- ref: {seq: 62, marker_id: KR1a0001_tls_061-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 62
+    marker_id: KR1a0001_tls_061-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 中孚第六十一
   type: section
   level: 1
-- ref: {seq: 62, marker_id: KR1a0001_tls_062-1a.3-h, span: [body, 0, 272]}
+- ref:
+    seq: 62
+    marker_id: KR1a0001_tls_062-1a.3-h
+    span:
+    - body
+    - 0
+    - 272
   label: 小過第六十二
   type: section
   level: 1
-- ref: {seq: 63, marker_id: KR1a0001_tls_062-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 63
+    marker_id: KR1a0001_tls_062-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 小過第六十二
   type: section
   level: 1
-- ref: {seq: 63, marker_id: KR1a0001_tls_063-1a.3-h, span: [body, 0, 203]}
+- ref:
+    seq: 63
+    marker_id: KR1a0001_tls_063-1a.3-h
+    span:
+    - body
+    - 0
+    - 203
   label: 既濟第六十三
   type: section
   level: 1
-- ref: {seq: 64, marker_id: KR1a0001_tls_063-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 64
+    marker_id: KR1a0001_tls_063-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 既濟第六十三
   type: section
   level: 1
-- ref: {seq: 64, marker_id: KR1a0001_tls_064-1a.3-h, span: [body, 0, 205]}
+- ref:
+    seq: 64
+    marker_id: KR1a0001_tls_064-1a.3-h
+    span:
+    - body
+    - 0
+    - 205
   label: 未濟第六十四
   type: section
   level: 1
-- ref: {seq: 65, marker_id: KR1a0001_tls_064-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 65
+    marker_id: KR1a0001_tls_064-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 未濟第六十四
   type: section
   level: 1
-- ref: {seq: 65, marker_id: KR1a0001_tls_065-1a.3-h, span: [body, 0, 2338]}
+- ref:
+    seq: 65
+    marker_id: KR1a0001_tls_065-1a.3-h
+    span:
+    - body
+    - 0
+    - 2338
   label: 繫辭上
   type: section
   level: 1
-- ref: {seq: 66, marker_id: KR1a0001_tls_065-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 66
+    marker_id: KR1a0001_tls_065-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 繫辭上
   type: section
   level: 1
-- ref: {seq: 66, marker_id: KR1a0001_tls_066-1a.3-h, span: [body, 0, 2135]}
+- ref:
+    seq: 66
+    marker_id: KR1a0001_tls_066-1a.3-h
+    span:
+    - body
+    - 0
+    - 2135
   label: 繫辭下
   type: section
   level: 1
-- ref: {seq: 67, marker_id: KR1a0001_tls_066-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 67
+    marker_id: KR1a0001_tls_066-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 繫辭下
   type: section
   level: 1
-- ref: {seq: 67, marker_id: KR1a0001_tls_067-1a.3-h, span: [body, 0, 971]}
+- ref:
+    seq: 67
+    marker_id: KR1a0001_tls_067-1a.3-h
+    span:
+    - body
+    - 0
+    - 971
   label: 說卦
   type: section
   level: 1
-- ref: {seq: 68, marker_id: KR1a0001_tls_068-1a.3-h, span: [front, 0, 913]}
+- ref:
+    seq: 68
+    marker_id: KR1a0001_tls_068-1a.3-h
+    span:
+    - front
+    - 0
+    - 913
   label: 序卦
   type: section
   level: 1
-- ref: {seq: 68, marker_id: KR1a0001_tls_067-1a.3-h, span: [body, 0, 0]}
+- ref:
+    seq: 68
+    marker_id: KR1a0001_tls_067-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
   label: 說卦
   type: section
   level: 1
-- ref: {seq: 69, marker_id: KR1a0001_tls_068-1a.3-h, span: [front, 0, 0]}
+- ref:
+    seq: 69
+    marker_id: KR1a0001_tls_068-1a.3-h
+    span:
+    - front
+    - 0
+    - 0
   label: 序卦
   type: section
   level: 1
-- ref: {seq: 69, marker_id: KR1a0001_tls_069-1a.3-h, span: [body, 0, 252]}
+- ref:
+    seq: 69
+    marker_id: KR1a0001_tls_069-1a.3-h
+    span:
+    - body
+    - 0
+    - 252
   label: 雜卦
   type: section
   level: 1
