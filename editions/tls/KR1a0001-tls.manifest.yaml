@@ -93,7 +93,7 @@ assets:
   - {seq: 65, filename: KR1a0001_065-tls.yaml, hash: 'sha256:7e82026159d6c88f482777c4938638f1e56d544785cb5c3f44774910ce776548'}
   - {seq: 66, filename: KR1a0001_066-tls.yaml, hash: 'sha256:802dc17b18d83793f030e3da0dcde90ebb5f9d7ece7c60af92e151d4136d1882'}
   - {seq: 67, filename: KR1a0001_067-tls.yaml, hash: 'sha256:08108b52fd340efcbb8630753094847b8eea9f276267522b8daf0ec1aef4077b'}
-  - {seq: 68, filename: KR1a0001_068-tls.yaml, hash: 'sha256:44cc4f2b59d6724583cebef5a4839e920d0792dc9634c58f2ad1bdde7396e3e8'}
+  - {seq: 68, filename: KR1a0001_068-tls.yaml, hash: 'sha256:097d314d8c14d7ec2fa6739ba922ada3d955fa66412c0c97de9ac96b410802dd'}
   - {seq: 69, filename: KR1a0001_069-tls.yaml, hash: 'sha256:9cc458c6c610b12cc183b1e2bdea32a4959138e1ba1e1f4e3cd0df1db59d5ea7'}
   markers:
   - {seq: 1, role: markers, filename: assets/KR1a0001_001-tls.markers.yaml, hash: 'sha256:33a91bac4dc26bbedd0765c7105f945cedb42eeb90a38926289520b60f0e86fd'}
@@ -163,7 +163,7 @@ assets:
   - {seq: 65, role: markers, filename: assets/KR1a0001_065-tls.markers.yaml, hash: 'sha256:5112f11b4787b6cad4aaa2423c924b19af2c44c62d6e791f16a565327c202364'}
   - {seq: 66, role: markers, filename: assets/KR1a0001_066-tls.markers.yaml, hash: 'sha256:8327d1caec27b851e90021a97799b1e127709e11893092355786df4cfdb9d096'}
   - {seq: 67, role: markers, filename: assets/KR1a0001_067-tls.markers.yaml, hash: 'sha256:296d51a99e3a49276c4995545f6de73a36c332620d685dbc8427f55442f558f3'}
-  - {seq: 68, role: markers, filename: assets/KR1a0001_068-tls.markers.yaml, hash: 'sha256:60595d559cfb0247b380b4de07dee371ed9c179e0aaa1b286f5cee96508813ac'}
+  - {seq: 68, role: markers, filename: assets/KR1a0001_068-tls.markers.yaml, hash: 'sha256:6ad3aacf4722dab644a5e7e871d374ea93883f4fd0ffc684977176931526e739'}
   - {seq: 69, role: markers, filename: assets/KR1a0001_069-tls.markers.yaml, hash: 'sha256:f18eaca9c92ce5cd25a319243dedf09b3b6ffd3483bd559db7dcd8f69edb11b0'}
 table_of_contents:
 - ref:
@@ -1500,7 +1500,7 @@ table_of_contents:
     seq: 68
     marker_id: KR1a0001_tls_068-1a.3-h
     span:
-    - front
+    - body
     - 0
     - 913
   label: 序卦
@@ -1511,8 +1511,8 @@ table_of_contents:
     marker_id: KR1a0001_tls_067-1a.3-h
     span:
     - body
-    - 0
-    - 0
+    - 913
+    - 913
   label: 說卦
   type: section
   level: 1
@@ -1536,4 +1536,4 @@ table_of_contents:
   label: 雜卦
   type: section
   level: 1
-hash: sha256:2a43835f052f9668bcbdc2601bebef3d91ae9800f0bcb3a2c77d94d8cc596568
+hash: sha256:561f8433e033b4a22f59300a1fba2e8eaf9513935ca9b3cfa0a46e5585a6935a
